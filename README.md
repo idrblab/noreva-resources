@@ -6,7 +6,7 @@ commit](https://img.shields.io/github/last-commit/idrblab/NOREVA)](https://githu
 <!-- badges: end -->
 
 ### Data availability
-All the data reported in the paper could be <a href='https://idrblab.org/noreva2.0/download/tests.zip'>downloaded</a>.
+All data analyzed within the protocol could be <a href='https://idrblab.org/noreva2.0/download/tests.zip'>downloaded</a>.
 
 ### Welcome to Download the Sample Data for Testing and for File Format Correcting
 ```(r)
