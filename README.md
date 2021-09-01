@@ -5,7 +5,7 @@
 commit](https://img.shields.io/github/last-commit/idrblab/NOREVA)](https://github.com/idrblab/NOREVA/commits/master) [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/idrblab/NOREVA)](https://github.com/idrblab/NOREVA/commits/master) [![GitHub codesize](https://img.shields.io/github/languages/code-size/idrblab/NOREVA)](https://github.com/idrblab/NOREVA/releases)
 <!-- badges: end -->
 
-### Data availability
+### Data Availability
 All data analyzed within the protocol could be <a href='https://idrblab.org/noreva2.0/download/tests.zip'>downloaded</a>.
 
 ### Welcome to Download the Sample Data for Testing and for File Format Correcting
