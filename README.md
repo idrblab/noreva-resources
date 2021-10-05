@@ -5,7 +5,7 @@
 <!-- badges: end -->
 
 ### Data Availability
-All data analyzed within the protocol could be <a href='https://idrblab.org/noreva2.0/download/tests.zip'>downloaded</a>.
+The tested datasets in the protocol could be <a href='https://idrblab.org/noreva2.0/download/tests.zip'>downloaded</a>.
 
 ### Welcome to Download the Sample Data for Testing and for File Format Correcting
 ```(r)
